@@ -59,11 +59,13 @@ CREATE TABLE employees (
 ## Screenshots
 The images below show the app interface and workflow:
 
-![Employee list view](https://github.com/mdtalalwasim/php-mysql-crud/assets/91146041/7b9187bc-c32b-4d5b-9b45-c9ab34ed8d2c)
+![Employee list view](screenshots/employee-list.svg)
 
-![Add new employee form](https://github.com/mdtalalwasim/php-mysql-crud/assets/91146041/f04bbda7-46aa-441c-9538-5d31c461fd39)
+![Add new employee form](screenshots/add-employee.svg)
 
-![Edit employee view](https://github.com/mdtalalwasim/php-mysql-crud/assets/91146041/dfdbda99-36be-4d69-951d-d678dac1bf62)
+![Edit employee view](screenshots/edit-employee.svg)
+
+> These local SVG screenshot files are now stored in `screenshots/` so they display without 404 errors.
 
 ## Notes for the reviewer
 - This project is intended as a learning example of PHP + MySQL CRUD operations.
