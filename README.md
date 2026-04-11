@@ -71,15 +71,6 @@ CREATE TABLE employees (
 4. Click **Edit** on a row to update the details.
 5. Click **Delete** on a row to remove the employee.
 
-## Screenshots
-The images below show the app interface and workflow:
-
-![Employee list view](screenshots/employee-list.svg)
-
-![Add new employee form](screenshots/add-employee.svg)
-
-![Edit employee view](screenshots/edit-employee.svg)
-
 > These local SVG screenshot files are now stored in `screenshots/` so they display without 404 errors.
 
 ## Notes for the reviewer
