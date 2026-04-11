@@ -8,13 +8,13 @@ A simple PHP + MySQL employee management system with full CRUD functionality. Th
 ## Screenshots
 
 ### Employee List Dashboard
-![Screenshot 1](screenshots/Screenshot%202026-04-11%20at%2011.52.42%20AM.png)
+![Screenshot 1](screenshots/Screenshot 2026-04-11 at 11.52.42 AM.png)
 
 ### Add New Employee
-![Screenshot 2](screenshots/Screenshot%202026-04-11%20at%2011.52.52%20AM.png)
+![Screenshot 2](screenshots/Screenshot 2026-04-11 at 11.52.52 AM.png)
 
 ### Edit Employee Details
-![Screenshot 3](screenshots/Screenshot%202026-04-11%20at%2011.53.03%20AM.png)
+![Screenshot 3](screenshots/Screenshot 2026-04-11 at 11.53.03 AM.png)
 
 ## What this project does
 - Displays all employee records in a table
