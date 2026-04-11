@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
-  <rect x="0" y="0" width="900" height="300" fill="#2d6cdf" />
-  <rect x="20" y="20" width="860" height="260" fill="none" stroke="#ffffff" stroke-width="6" rx="18" />
-  <text x="450" y="150" font-family="Arial, sans-serif" font-size="36" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">
-    Employee List View
-  </text>
-</svg>

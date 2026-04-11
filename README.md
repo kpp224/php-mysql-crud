@@ -1,5 +1,11 @@
 # Employee Management CRUD Application
+
+## Overview
+Welcome to the **Employee Management CRUD Application** – a robust, easy-to-use PHP and MySQL-based system designed to manage employee records efficiently. This project demonstrates complete CRUD (Create, Read, Update, Delete) operations with a clean, responsive user interface powered by Bootstrap. Whether you're managing a small team or learning web development, this application provides a solid foundation for employee data management.
+
 A simple PHP + MySQL employee management system with full CRUD functionality. This project lets users create, read, update, and delete employee records from a MySQL database using a clean Bootstrap interface.
+
+![Employee Management System](screenshots/Screenshot%202026-04-11%20at%2011.52.42%20AM.png)
 
 ## What this project does
 - Displays all employee records in a table
